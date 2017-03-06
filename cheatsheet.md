@@ -13,3 +13,5 @@ git push
 git merge
 
 git pull
+
+git checkout 
